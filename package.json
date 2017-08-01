@@ -1,0 +1,26 @@
+{
+  "name": "projektsiedem",
+  "version": "1.0.0",
+  "description": "task seven project",
+  "main": "index.js",
+  "scripts": {
+    "test": "kodilla-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karolina-LK/7.2.git"
+  },
+  "author": "Karolina-LK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Karolina-LK/7.2/issues"
+  },
+  "homepage": "https://github.com/Karolina-LK/7.2#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-imagemin": "^2.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
